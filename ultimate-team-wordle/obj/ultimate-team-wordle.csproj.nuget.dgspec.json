@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DominicMartin\\source\\repos\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj": {}
+    "C:\\Users\\DominicMartin\\GitHub\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DominicMartin\\source\\repos\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj": {
+    "C:\\Users\\DominicMartin\\GitHub\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DominicMartin\\source\\repos\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj",
+        "projectUniqueName": "C:\\Users\\DominicMartin\\GitHub\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj",
         "projectName": "ultimate-team-wordle",
-        "projectPath": "C:\\Users\\DominicMartin\\source\\repos\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj",
+        "projectPath": "C:\\Users\\DominicMartin\\GitHub\\ultimate-team-wordle\\ultimate-team-wordle\\ultimate-team-wordle.csproj",
         "packagesPath": "C:\\Users\\DominicMartin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DominicMartin\\source\\repos\\ultimate-team-wordle\\ultimate-team-wordle\\obj\\",
+        "outputPath": "C:\\Users\\DominicMartin\\GitHub\\ultimate-team-wordle\\ultimate-team-wordle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
